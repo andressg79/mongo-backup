@@ -1,6 +1,6 @@
 
 
-**Scripts for Backup MongoDB**
+**Script for Backup MongoDB**
 =====================================
 
 **Overview**
@@ -19,7 +19,7 @@ This project provides a shell script to backup MongoDB databases. The script is 
 **Requirements**
 ---------------
 
-* MongoDB 3.6 or later
+* MongoDB 3.0.15 or later
 * Bash shell
 
 **Usage**
